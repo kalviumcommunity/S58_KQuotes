@@ -43,4 +43,4 @@ KQuotes is maintained by the KAlvium community. Special thanks to all contributo
 
 ## Contact
 
-For inquiries or suggestions regarding KQuotes, please contact [nikhil@kalvium.community](mailto:your_email@example.com).
+For inquiries or suggestions regarding KQuotes, please contact [nikhil@kalvium.community](mailto:nikhil@kalvium.community).
