@@ -5,7 +5,7 @@ app.get("/",(req,res)=>{
     res.send({"ping":"pong"});
 });
 
-app.listen(8080,()=>{
+app.listen(7777,()=>{
     console.log("Running...");
 });
 
